@@ -1,0 +1,5 @@
+cd src/robot_driver/world
+./GenerateWorld.out -noContainers -items 1
+cd ..
+cd ..
+cd ..
