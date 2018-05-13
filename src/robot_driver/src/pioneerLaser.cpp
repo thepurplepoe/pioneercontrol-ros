@@ -11,6 +11,8 @@
 
 using namespace std;
 
+
+// Add some comments to see if it commits
 float getXOfPoint(float distance, int index) {
 	float dist = distance;
 	float preang = index/512.0 * M_PI;
